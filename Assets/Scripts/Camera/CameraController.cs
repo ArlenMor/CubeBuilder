@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Camera
+namespace CubeBuilder.CustomCamera
 {
     public class CameraController : MonoBehaviour
     {
